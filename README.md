@@ -2,7 +2,7 @@
 
 Validate email syntax, verify active DNS MX mail servers, block 10,000+ disposable/throwaway email domains, and catch domain typos (`gmial.com` -> `gmail.com`) in real time.
 
-🔗 **Get your free API key:** [Email & Lead Hygiene API on RapidAPI](YOUR_RAPIDAPI_LISTING_URL) *(100 free requests/month)*
+🔗 **Get your free API key:** [Email & Lead Hygiene API on RapidAPI]([YOUR_RAPIDAPI_LISTING_URL](https://rapidapi.com/medhakamath/api/pdf-invoice-receipt-data-extractor)) *(100 free requests/month)*
 
 ## Features
 - **Syntax Validation:** Checks standard email address formatting.
